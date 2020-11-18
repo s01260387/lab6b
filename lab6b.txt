@@ -1,0 +1,4 @@
+{"student data":[
+  { "firstName":"John, "lastname":"Smith", "age":"17", "school":"Tri-C", "address":"123 Main St", "city": "Cleveland", "zip":"44123", "gpa":"3.0"}
+]}
+  
